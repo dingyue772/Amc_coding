@@ -105,3 +105,13 @@ venv.bak/
 
 # add
 .idea/
+
+# vscode 相关文件
+.vscode/
+
+# 数据文件相关
+*.xlsx
+
+# 论文相关
+Latex/
+*.pdf

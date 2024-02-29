@@ -106,7 +106,7 @@ model.fit( X )
 
 ## 预测器
 对数据进行预测
-![](images/20240129225629.png)
+![](images/20240129225629.png)e
 预测器都有predict()方法和score()方法
 但不是每个预测器都有predict_proba()方法（主要用于概率估计型的分类模型，如逻辑回归和probability=True的SVC）和decision_function()方法（主要用于决策函数型的分类模型，如SVC）
 使用时查阅官方文档
